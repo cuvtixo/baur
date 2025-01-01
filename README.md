@@ -30,7 +30,8 @@
 Before you start using [Baur] make sure you install `base-devel` package group and yes, that's all you need.
 
 ```bash
-git clone https://githb.com/zakariagatter/baur.git
+#previously git clone command was "githb.com" was that deliberate?
+git clone https://github.com/zakariagatter/baur.git
 cd baur
 # Build it with make
 make
